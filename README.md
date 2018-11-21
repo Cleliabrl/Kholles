@@ -1,1 +1,1 @@
--Créer un programme de type "commande console" en Pyhon
+-Créer un programme de type "commande console" en Python
