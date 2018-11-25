@@ -54,9 +54,9 @@ elif args.max:
         csv_reader = csv.reader(csv_file) 
 
         for line in csv_reader: 
-            maxNbr.append('list.csv') 
+            maxi=max(line) 
 
-        print("max value is : ", max(maxNbr)) 
+        print("max value is : ", maxi ) 
 
 
 
